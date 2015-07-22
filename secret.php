@@ -1,0 +1,5 @@
+<?php
+
+    $client_id ="MGY5MjljZTAtMjg1YS00ZGZhLWJjNTctZDRjZTA4OWEwYjNl";
+    $client_secret = "NTFkMTU0NzYtOTJlNC00NmQ4LTlkOWUtMmE4MDdlYzEwM2E2YTVmM2ZmYTAtMjRiNS0xMWU1LTk4ZGItNGY4YTVlMjZjZTE5";
+    
